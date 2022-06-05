@@ -1,56 +1,41 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:1
-#EXTINF:0.983, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695126325-983.ts
-#EXTINF:0.990, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695127374-990.ts
-#EXTINF:0.983, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695128424-983.ts
-#EXTINF:0.987, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695129128-987.ts
-#EXTINF:0.483, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695130178-483.ts
-#EXTINF:0.997, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695133586-997.ts
-#EXTINF:0.979, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695133589-979.ts
-#EXTINF:0.981, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695134285-981.ts
-#EXTINF:0.984, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695134986-984.ts
-#EXTINF:0.987, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695136037-987.ts
-#EXTINF:0.989, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695137088-989.ts
-#EXTINF:0.992, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695138140-992.ts
-#EXTINF:0.995, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695139192-995.ts
-#EXTINF:0.997, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695140241-997.ts
-#EXTINF:0.979, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695141291-979.ts
-#EXTINF:0.981, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695141994-981.ts
-#EXTINF:0.433, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695143044-433.ts
-#EXTINF:0.987, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695144900-987.ts
-#EXTINF:0.983, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695145250-983.ts
-#EXTINF:0.984, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695146301-984.ts
-#EXTINF:0.983, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695147352-983.ts
-#EXTINF:0.983, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695148401-983.ts
-#EXTINF:0.983, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695149104-983.ts
-#EXTINF:0.983, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695150154-983.ts
+#EXT-X-DISCONTINUITY
 #EXTINF:0.999, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695151205-999.ts
-#EXTINF:0.916, no desc
-https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/1/1652695152255-916.ts
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456820439-999.ts
+#EXTINF:0.983, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456820783-983.ts
+#EXTINF:0.996, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456821833-996.ts
+#EXTINF:0.983, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456822883-983.ts
+#EXTINF:0.987, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456827502-987.ts
+#EXTINF:0.989, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456827506-989.ts
+#EXTINF:0.992, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456828203-992.ts
+#EXTINF:0.995, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456829251-995.ts
+#EXTINF:0.983, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456832574-983.ts
+#EXTINF:0.983, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456832884-983.ts
+#EXTINF:0.983, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456833586-983.ts
+#EXTINF:0.983, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456834636-983.ts
+#EXTINF:0.133, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456835686-133.ts
+#EXTINF:0.997, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456839220-997.ts
+#EXTINF:0.979, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456839224-979.ts
+#EXTINF:0.981, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456839921-981.ts
+#EXTINF:0.984, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456840972-984.ts
+#EXTINF:0.155, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/multiple_ts_res_change/2/1653456842022-155.ts
 #EXT-X-ENDLIST
