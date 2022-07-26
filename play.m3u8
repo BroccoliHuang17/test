@@ -1,0 +1,40 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXTINF:2.176, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/第1個.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/第2個.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/第3個.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/第4個.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/第5個.ts
+#EXTINF:1.064, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/第6個.ts
+#EXTINF:1.098, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場前.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:2.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場1.ts
+#EXTINF:2.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場2.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場3.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:1.024, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場後第1個.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場後第2個.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場後第3個.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場後第4個.ts
+#EXTINF:1.000, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場後第5個.ts
+#EXTINF:1.060, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場後第6個.ts
+#EXTINF:1.062, no desc
+https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/轉場後第7個.ts
+#EXT-X-ENDLIST
