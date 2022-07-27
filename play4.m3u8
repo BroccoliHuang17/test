@@ -1,0 +1,25 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXTINF:2.176, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/def6ee9d-971c-4cc2-964d-ee3fdd13d5d9/115071338/1658740821723-2176.ts
+#EXTINF:1.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/def6ee9d-971c-4cc2-964d-ee3fdd13d5d9/115071338/1658740821727-936.ts
+#EXTINF:1.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/def6ee9d-971c-4cc2-964d-ee3fdd13d5d9/115071338/1658740822181-957.ts
+#EXTINF:1.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/def6ee9d-971c-4cc2-964d-ee3fdd13d5d9/115071338/1658740823176-946.ts
+#EXTINF:1.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/def6ee9d-971c-4cc2-964d-ee3fdd13d5d9/115071338/1658740824182-946.ts
+#EXTINF:1.064, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/def6ee9d-971c-4cc2-964d-ee3fdd13d5d9/115071338/1658740825166-1064.ts
+#EXTINF:1.098, no desc
+https://17live-archive-playback-tw-stag.17app.co/live/def6ee9d-971c-4cc2-964d-ee3fdd13d5d9/115071338/1658740826232-1098.ts
+#EXT-X-DISCONTINUITY
+#EXTINF:2.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421239-1996.ts
+#EXTINF:2.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421323-1980.ts
+#EXTINF:1.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421365-966.ts
+#EXT-X-ENDLIST
