@@ -22,19 +22,4 @@ https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/tran1.ts
 https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/tran2.ts
 #EXTINF:1.000, no desc
 https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/tran3.ts
-#EXT-X-DISCONTINUITY
-#EXTINF:1.024, no desc
-https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/after1.ts
-#EXTINF:1.000, no desc
-https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/after2.ts
-#EXTINF:1.000, no desc
-https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/after3.ts
-#EXTINF:1.000, no desc
-https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/after4.ts
-#EXTINF:1.000, no desc
-https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/after5.ts
-#EXTINF:1.060, no desc
-https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/after6.ts
-#EXTINF:1.062, no desc
-https://raw.githubusercontent.com/BroccoliHuang17/test/main/play/after7.ts
 #EXT-X-ENDLIST
