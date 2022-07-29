@@ -1,0 +1,16 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:3
+#EXTINF:2.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421239-1996.ts
+#EXTINF:2.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421323-1980.ts
+#EXTINF:1.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421365-966.ts
+#EXTINF:2.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421239-1996.ts
+#EXTINF:2.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421323-1980.ts
+#EXTINF:1.000, no desc
+https://17live-archive-playback-tw-stag.17app.co/transition/unsupport/540/1657000421365-966.ts
+#EXT-X-ENDLIST
